@@ -3,6 +3,7 @@ package com.wql.util;
 public class HelloWord {
 	
 	public static void sayHello() {
+		System.out.println("1111!");
 		System.out.println("helle word !");
 	}
 	
